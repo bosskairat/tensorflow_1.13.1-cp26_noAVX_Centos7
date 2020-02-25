@@ -1,4 +1,4 @@
-<h2>Built for CentOS/RHEL 7 on Westmere with no AVX and no GPU</h2>
+<h2>Built for CentOS/RHEL 7 with no AVX, no GPU and no OpenCL</h2>
 </br>
 <h3>Build Versions:</h3>
 TensorFlow 1.13.1</br>
